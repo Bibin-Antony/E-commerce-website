@@ -15,7 +15,7 @@ const creatNav = () => {
             </div>
         </div>
         <ul class="linksContainer">
-            <li class="listItems"><a href="#" class="linkList">home</a></li>
+            <li class="listItems"><a href="index.html" class="linkList">home</a></li>
             <li class="listItems"><a href="#" class="linkList">clothing</a></li>
             <li class="listItems"><a href="#" class="linkList">shoes</a></li>
             <li class="listItems"><a href="#" class="linkList">Kids</a></li>
