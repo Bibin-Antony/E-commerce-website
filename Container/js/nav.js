@@ -19,7 +19,9 @@ const creatNav = () => {
             <li class="listItems"><a href="#" class="linkList">clothing</a></li>
             <li class="listItems"><a href="#" class="linkList">shoes</a></li>
             <li class="listItems"><a href="#" class="linkList">Kids</a></li>
-            <li class="listItems"><a href="#" class="linkList">accessories</a></li>
+            <li class="listItems"><a href="#" class="linkList">accessories</a></li> 
+            <li class="listItems"><a href="login.html" class="linkList">Login</a></li>
+            <li class="listItems"><a href="signin.html" class="linkList">Signup</a></li>
         </ul>
         `
 }
