@@ -116,6 +116,27 @@ form .input-box span.details{
    transition: all 0.3s ease;
    background: linear-gradient(135deg, #71b7e6, #9b59b6);
  }
+
+ .btn-home button{
+  height: 100%;
+  width: 100%;
+  border-radius: 5px;
+  border: none;
+  color: #fff;
+  font-size: 18px;
+  font-weight: 500;
+  letter-spacing: 1px;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  background: linear-gradient(135deg, #71b7e6, #9b59b6);
+  margin-top: 10px;
+  padding: 10px;
+
+ }
+ .btn-home a{
+   text-decoration: none;
+   color: #fff;
+ }
  form .button input:hover{
   /* transform: scale(0.99); */
   background: linear-gradient(-135deg, #71b7e6, #9b59b6);
