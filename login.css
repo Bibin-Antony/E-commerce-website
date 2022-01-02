@@ -134,14 +134,13 @@ body{
   font-size: 20px;
   box-shadow: #5b13b9 10px 10px 20px;
   text-decoration: none;
+  margin: 0px 20px;
 }
 
 .btn-login a{
-  padding: 10px 30px;
-  border-radius: 20px;
   font-family:sans-serif;
   font-size: 20px;
-  box-shadow: #5b13b9 10px 10px 20px;
+  color: #333;
   text-decoration: none;
 }
 
